@@ -1,6 +1,10 @@
 # Traps Version 1.0 beta
 Offline Acrade style Game using Unity
 
+#Windows Installation
+* Download link : https://github.com/ashiq-firoz/Traps/archive/refs/heads/main.zip
+* Open Traps Installer.exe
+
 #Linux Installation Steps:
 * Download link :https://github.com/ashiq-firoz/Traps/archive/refs/heads/main.zip
 * First extract the folder  
